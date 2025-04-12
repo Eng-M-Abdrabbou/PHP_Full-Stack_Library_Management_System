@@ -1,4 +1,4 @@
-# PHP Library Management System
+# PHP Full Stack Library Management System
 
 ## Project Overview
 This is a web-based Library Management System developed for AAU that provides functionality for both students and librarians to manage library resources.
