@@ -1,12 +1,12 @@
 # PHP Full Stack Library Management System
 
 ## Project Overview
-This is a web-based Library Management System developed for AAU that provides functionality for both students and librarians to manage library resources.
+The AAU Library Management System is a robust, full-stack web-based digital platform designed to streamline library operations, enhance user experience, and provide efficient resource management for academic institutions. This comprehensive solution empowers students and librarians with intuitive tools for book tracking, borrowing, and administrative management, ultimately supporting the academic community's research and learning objectives.
 
 ## Features
-- Student Login
-- Librarian Login
-- Book Management
+- Student Login and Authentication
+- Librarian Login and Authentication
+- Book Management System
 - Book Borrowing System
 - Charge Tracking
 
